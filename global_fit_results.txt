@@ -1,0 +1,41 @@
+================ GLOBAL FIT RESULTS ================
+
+Kd global = 28.204473 (same unit as Pt)
+Global R² = 0.635810
+
+Pic 1
+  dmax = 0.061152 ppm
+  ref_equiv = 0.0
+
+Pic 2
+  dmax = 0.060680 ppm
+  ref_equiv = 0.0
+
+Pic 3
+  dmax = 0.077877 ppm
+  ref_equiv = 0.0
+
+Pic 4
+  dmax = 0.081686 ppm
+  ref_equiv = 0.971
+
+Pic 5
+  dmax = 0.058314 ppm
+  ref_equiv = 0.971
+
+Pic 6
+  dmax = 0.203727 ppm
+  ref_equiv = 1.82
+
+Pic 7
+  dmax = 0.171432 ppm
+  ref_equiv = 1.82
+
+Pic 8
+  dmax = 0.356938 ppm
+  ref_equiv = 2.79
+
+Pic 9
+  dmax = 0.407268 ppm
+  ref_equiv = 2.79
+
